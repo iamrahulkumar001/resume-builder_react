@@ -42,8 +42,7 @@ const Features: NextPage = () => {
         <Image src="/home/no-account.png" alt="No account" height="50px" width="50px" />
         <h2>No signup/signin</h2>
         <p>
-          Completely free and open source. No registration required. We do not store any of your
-          information. Create unlimited resumes using our tool.
+          Any resume @ Just Rs: 99 for ever. 
         </p>
       </div>
       <div>
