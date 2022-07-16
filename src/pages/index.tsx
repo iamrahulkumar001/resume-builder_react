@@ -19,7 +19,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Resume Builder</title>
+        <title>YNAPS Resume Builder</title>
         <meta name="description" content="Single Page Resume Builder for everyone" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
