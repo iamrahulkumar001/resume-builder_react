@@ -1,5 +1,5 @@
 {
-  "name": "YNAPS Resume Builder | Build Your professional Resume in minutes.",
+  "name": "resume-builder",
   "version": "0.1.0",
   "private": true,
   "scripts": {
